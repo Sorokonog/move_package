@@ -1,0 +1,4 @@
+<launch>
+  <node name="w_n" pkg="my_hello_package" type="pub_hello.py">
+  </node>
+</launch>
